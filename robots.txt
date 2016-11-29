@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /privacy.html
+Disallow: /dmca.html
+Disallow: /contact.html
+Allow: /
+
+Sitemap: /sitemap/index-files.xml

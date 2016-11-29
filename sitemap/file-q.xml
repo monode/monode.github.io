@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+    <url>
+      <loc>/view/download/q91-ford-falcon-el-manual.pdf</loc>
+      <lastmod>2016-10-25 05:43</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/view/download/qcf-exam-fm-study-manual.pdf</loc>
+      <lastmod>2016-10-25 05:43</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/view/download/quick-start-manual-transmission.pdf</loc>
+      <lastmod>2016-10-25 05:43</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/view/download/quicken-home-and-business-manual.pdf</loc>
+      <lastmod>2016-10-25 05:43</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  </urlset>
